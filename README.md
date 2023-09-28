@@ -1,1 +1,12 @@
-This is the README file
+# VAT Calculator Task 
+
+## Overview
+
+## Implementation Details
+
+
+---
+
+## Additional Information
+
+
